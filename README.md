@@ -118,3 +118,11 @@ Agrega aquí el enlace público o ruta del archivo de tu conversación continua 
 - Nombre del candidato:
 - Herramienta utilizada (ChatGPT, Claude, Cursor, Copilot, etc.):
 - Enlace compartido al hilo del chat o ruta del archivo exportado:
+
+
+NOMBRE:  ISC DIEGO RUBIO GUERRERO
+HERRAMIENTA UTILIZADA: CHAT GTP
+ENLACE DEL HISTORIAL UTILIZADO DE APOYO
+
+https://chatgpt.com/share/6abbfc10-c5d8-83e8-844c-668ff3fbb248
+
